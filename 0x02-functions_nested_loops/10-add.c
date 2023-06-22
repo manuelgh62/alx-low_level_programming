@@ -3,9 +3,9 @@
 /**
  * add - adds two integers and returnsthe result
  *
- * @x: number being added
+ * @a: number being added
  *
- * @y: number being added
+ * @b: number being added
  *
  * Return: Always 0.
  *
