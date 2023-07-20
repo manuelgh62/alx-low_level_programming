@@ -27,3 +27,6 @@ printf("%s", str);
 if (index != (n - 1) && separator != NULL)
 printf("%s", separator);
 }
+printf("\n");
+va_end(strings);
+}
