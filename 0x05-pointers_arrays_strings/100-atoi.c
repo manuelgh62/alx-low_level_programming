@@ -28,6 +28,6 @@ return (sign == 1) ? INT_MAX : INT_MIN;
 result = result * 10 + (*s - '0');
 s++;
 }
-return result * sign;
+return (result * sign);
 }
 }
